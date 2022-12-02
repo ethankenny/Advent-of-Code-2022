@@ -29,4 +29,4 @@ for i in range(len(data)):
 
 top.sort()
 
-print("Part 1: %s\n Part 2: %s" % (top[-1], top[-1] + top[-2] + top[-3]))
+print("Part 1: %s\nPart 2: %s" % (top[-1], top[-1] + top[-2] + top[-3]))
