@@ -1,3 +1,8 @@
+'''
+Part 1: Find maximum group of numbers
+Part 2: Find sum of top three groups of numbers 
+'''
+
 data = []
 
 with open('input.txt') as file:
